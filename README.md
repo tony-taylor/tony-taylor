@@ -1,4 +1,4 @@
-### Hi there, I'm Tony 👋 👨‍💻
+### Hey, I'm Tony 👋 👨‍💻
 
 <!--
 **tony-taylor/tony-taylor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
